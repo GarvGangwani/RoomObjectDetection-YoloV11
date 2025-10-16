@@ -1,1 +1,2 @@
-cvbnm
+The model file is too big for uploading
+You can run the "Model Training.ipynb" and download the output file as "best.pt"
